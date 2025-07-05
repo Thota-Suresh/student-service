@@ -9,7 +9,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 @Component
 public class Marks {
 
-	private Long id;
+	private Long id;   
 
     private Long studentId;
 	private int marks;
